@@ -201,6 +201,7 @@
 					};
 					D0D71E241EAD4059008A8636 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = D4QP9V859T;
 						ProvisioningStyle = Automatic;
 						TestTargetID = D0D71E0D1EAD4059008A8636;
 					};
@@ -444,6 +445,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = D4QP9V859T;
 				INFOPLIST_FILE = CountTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.CountTests;
@@ -458,6 +460,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = D4QP9V859T;
 				INFOPLIST_FILE = CountTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.CountTests;
